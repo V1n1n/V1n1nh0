@@ -35,6 +35,9 @@
   <br>
 <div align="center">
   
+  <a href="https://github.com/V1n1nh0/IMC-Calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V1n1nh0&theme=codeSTACKr&border_color=A6A6A6CF&repo=IMC-Calculator" />
+  </a>
   
   </div>
 </details>
