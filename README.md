@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=F78015&center=true&width=700&lines=Ou%C3%A7a+conselhos+e+aceite+instru%C3%A7%C3%B5es%2C+e+acabar%C3%A1+sendo+s%C3%A1bio.;Prov%C3%A9rbios+19%3A20" alt="Typing SVG" />
   </div>
 
-  <img align="right" src="https://media.discordapp.net/attachments/1064718128753422423/1107439161163653120/com_filtro_e_fundo_laranja.png?width=501&height=663" height="270px">
+  <img align="right" src="" height="270px">
 
 <b align="left">Opa, deixa eu me apresentar:</b>
 
