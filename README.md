@@ -7,7 +7,7 @@
 
 <b align="left">Opa, deixa eu me apresentar:</b>
 
-<p align="left">Me chamo Vinicius Cardozo, tenho 17 anos, estudo cibersegurança e nas horas vagas me dedico a projetos pessoais. <br> Possuo as seguintes certificações na área de cibersegurança: DCPT (Desec Certified Penetration Tester) | CRTP (Certified Red Team Professional) | OSCP in progress.  </p>
+<p align="left">Me chamo Vinicius Cardozo, tenho 17 anos, estudo cibersegurança e nas horas vagas me dedico a projetos pessoais. <br> Possuo as seguintes certificações na área de cibersegurança: <br>DCPT (Desec Certified Penetration Tester) | CRTP (Certified Red Team Professional) | OSCP in progress.  </p>
 <h3>tenho experiencia em:</h3>
 <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="gb-c" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
