@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%234946ff&labelColor=%23000019&color=%234946ff)](mailto:vinicardozobones@gmail.com) 
 
 
-## Tecnologias
+## Programming Languages
 
 <div style="display-inline-block">
     <img align="center" height="35" width="40" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -34,9 +34,9 @@
 My goal is to identify vulnerabilities and strengthen digital security.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1n1n/v1n1n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1n1n/v1n1n/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/v1n1n/v1n1n/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1n1n/V1n1nh0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1n1n/V1n1nh0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/V1n1n/V1n1nh0/output/github-contribution-grid-snake.svg">
 </picture>
 
 
